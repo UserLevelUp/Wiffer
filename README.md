@@ -11,3 +11,5 @@ The result can be captured in an xml or json file that can help build a clear ru
 The technology will depend on any language or platform that can handle these types of requirements on a windows or linux platform.  
 
 Currently this project is in the idea stages.
+
+Its basically a mass improvement of Microsoft Steps Recorder.
